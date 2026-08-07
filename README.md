@@ -1,15 +1,18 @@
-## Привет, я Javoxir 👋
 
-17 лет, самостоятельно изучаю IT (HTML/CSS/JS, React, Python, Django/DRF) и готовлюсь к поступлению в университет за рубежом.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&width=435&lines=Building+Garage710;Django+%2B+React+Developer;Preparing+for+IELTS+%26+SAT)]()
 
-### Сейчас работаю над
-Garage710 — full-stack веб-приложение для автостудии в Самарканде (Django 6 + DRF backend, React 19 + Vite frontend)
+### 🔧 Сейчас работаю над
+**Garage710** — full-stack веб-приложение для автостудии в Самарканде
 
-- 🔧 [Garage710 Backend](ссылка-на-репо)
-- 🎨 [Garage710 Frontend](ссылка-на-репо)
+- [Backend (Django + DRF)](ТВОЯ_ССЫЛКА_НА_BACKEND)
+- [Frontend (React + Vite)](ТВОЯ_ССЫЛКА_НА_FRONTEND)
 
-### Стек
-Python · Django · DRF · JavaScript · React · Git
+### 🛠️ Стек
+<img src="https://skillicons.dev/icons?i=python,django,react,js,git&theme=dark" />
 
-### Связь
-Telegram: ...
+### 📊 Статистика
+![Stats](https://github-readme-stats.vercel.app/api?username=Javoxir710&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Javoxir710&layout=compact&theme=radical)
+
+### 📫 Связь
+Telegram: [@J710SH](https://t.me/J710SH)
